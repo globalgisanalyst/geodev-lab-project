@@ -1,6 +1,6 @@
 # My Project Brief
 
-### **## 1. My Project Question**
+### **1. My Project Question**
 
 Which wards in Ogbomosho South LGA are more than 5km from a health facility?
 
@@ -12,8 +12,7 @@ Access to healthcare is influenced not only by whether health facilities exist, 
 
 * GRID3 Health Facilities
 * GRID3 Ward Boundaries
-
-OSM Roads 
+* OSM Roads
 
 ### **## 4. Where Each Dataset Comes From**
 
